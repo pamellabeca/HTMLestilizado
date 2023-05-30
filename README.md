@@ -1,4 +1,4 @@
-# Dia 2 - Estilizar a Página HTML com CSS
+Página HTML Estilizada com CSS
 
 Este é o projeto do segundo dia do desafio "100 Days of Code". O objetivo deste projeto foi estilizar a página HTML criada no dia anterior usando CSS para torná-la visualmente atraente.
 
